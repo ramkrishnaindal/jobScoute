@@ -1,0 +1,18 @@
+.logo {
+  width: 250px;
+  height: 90px;
+}
+.form-abc {
+  height: 290px;
+  min-width: 70%;
+  padding: 100px;
+  height: 90%;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
